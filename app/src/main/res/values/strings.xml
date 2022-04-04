@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">KompasTurvis</string>
+    <string name="app_name">Kompas Turvis</string>
+    <string name="txt_turvis">Tutur Visual</string>
+    <string name="txt_title">Testing Konten</string>
+    <string name="txt_subtitle">tes konten yang akan di publish disini</string>
+    <string name="txt_hint">Input link tes disini</string>
+    <string name="txt_error">Link test tidak valid</string>
+    <string name="txt_button">Tes</string>
 </resources>
