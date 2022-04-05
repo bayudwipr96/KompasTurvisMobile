@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_kompas"
+        android:icon="@mipmap/ic_launcher_release"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_kompas_round"
+        android:roundIcon="@mipmap/ic_launcher_release"
         android:supportsRtl="true"
         android:theme="@style/Theme.KompasTurvis"
         tools:targetApi="31">
