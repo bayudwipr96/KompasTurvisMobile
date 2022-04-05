@@ -14,4 +14,8 @@
         <!-- Customize your theme here. -->
         <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
     </style>
+
+    <style name="ZeroSizeTextAppearance">
+        <item name="android:textSize">0sp</item>
+    </style>
 </resources>

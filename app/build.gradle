@@ -49,4 +49,12 @@ dependencies {
     // RxJava
     implementation("io.reactivex.rxjava2:rxjava:2.2.19")
     implementation("com.jakewharton.rxbinding2:rxbinding:2.0.0")
+
+    // Lifecycle
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.4.1")
+
+    // ViewModel KTX
+    implementation("androidx.activity:activity-ktx:1.4.0")
+    implementation("androidx.fragment:fragment-ktx:1.4.1")
 }
