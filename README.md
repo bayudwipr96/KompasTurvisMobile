@@ -8,7 +8,7 @@
 </p>
 <p align="center">Kompas Turvis for Android.</p>
 
-## 🛠 Configure project
+## Configure project
 Software Version
 ```
 Android Studio Bumblebee | 2021.1.1 Patch 2
